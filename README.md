@@ -12,8 +12,8 @@
            <hr width = "100%" color = "gray">
             <li>Java17, C#</li>
             <li>Spring Boot3, .NET</li>
-            <li>BootStrap, Jquery</li>
-            <li>Docker, AWS EC2, Git</li>
+            <li>BootStrap, JavaScript</li>
+            <li>AWS EC2, Git</li>
             <li>Mysql, Mssql</li>
             <h3>링크</h3>
            <hr width = "100%" color = "gray">
