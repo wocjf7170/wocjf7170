@@ -10,10 +10,10 @@
       <li>[2024.05 ~ 2025.07] 한솔섬유 웹 개발 직무 재직 (봉제 생산 및 인사 시스템 개발)</li>
             <h3>기술 스택</h3>
            <hr width = "100%" color = "gray">
-            <li>Java17, C#, JavaScript</li>
+            <li>Java, JavaScript, C#</li>
             <li>BootStrap</li>
-            <li>Spring Boot3, .NET</li>
-            <li>AWS EC2, Git</li>
+            <li>Spring Boot, Asp.Net</li>
+            <li>Git, AWS EC2</li>
             <li>Mysql, Mssql</li>
             <h3>링크</h3>
            <hr width = "100%" color = "gray">
