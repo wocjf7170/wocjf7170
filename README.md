@@ -9,7 +9,7 @@
       <li>[2023.07 ~ 2024.01] 야놀자 X 패스트캠퍼스 백엔드 개발 과정 최우수생(전체 2등) 수료 </li>
       <li>[2024.05 ~ 2025.07] 한솔섬유 웹 개발 직무 재직 (봉제 생산 및 인사 시스템 운영)</li>
       <li>[2026.02 ~ 2026.03] 이젬코 MES 운영 직무 재직 </li>
-      <li>[2026.07] 생각 정리 데스크탑 앱, FlowDesk 출시 (<a href="https://wocjf7170.github.io/flowdesk-release/">) </li>
+      <li>[2026.07] 생각 정리 데스크탑 앱, FlowDesk 출시 (<a href="https://wocjf7170.github.io/flowdesk-release/"> 소개 페이지) </li>
             <h3>기술 스택</h3>
            <hr width = "100%" color = "gray">
             <li>Java, JavaScript, C#</li>
